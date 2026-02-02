@@ -1,4 +1,5 @@
-collection_rules:
-  - type: "exclude_union_of"
-    patterns:
-      - "gitlfs.ipynb"
+# We will want to uncomment this later, but I need to run gitlfs right now
+# collection_rules:
+#   - type: "exclude_union_of"
+#     patterns:
+#       - "gitlfs.ipynb"
