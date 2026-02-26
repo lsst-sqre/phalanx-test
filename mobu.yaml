@@ -1,4 +1,0 @@
-collection_rules:
-  - type: "exclude_union_of"
-    patterns:
-      - "vo-cutouts.ipynb"
